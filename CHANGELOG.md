@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.9.8dev] - 2025-08-06
+
+### ⚙️ Miscellaneous Tasks
+
+- Pull monopoly direct from repo
+
 ## [0.9.3] - 2025-06-04
 
 ### ⚙️ Miscellaneous Tasks
