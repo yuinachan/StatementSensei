@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.9.7dev] - 2025-08-06
+
+### ⚙️ Miscellaneous Tasks
+
+- Disable windows due to build issue
+
 ## [0.9.3] - 2025-06-04
 
 ### ⚙️ Miscellaneous Tasks
